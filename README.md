@@ -1,5 +1,5 @@
 
-## Hi there, i'm seonyoung 🤗🎨
+## Hi there, I'm seonyoung 🤗🎨
 <!--
 **I might be an ordinary person...   
 But I'll be a 💫✨cool developer✨💫 in the near future.**
