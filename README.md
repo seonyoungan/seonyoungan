@@ -10,7 +10,4 @@ But I'll be a 💫✨cool developer✨💫 in the near future.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyoungan&layout=compact&)](https://github.com/seonyoungan)<br>
 
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonyoungan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->        
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonyoungan&count_bg=%23427AFF&title_bg=%23FFA760&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
